@@ -1,4 +1,7 @@
-![image](https://github.com/jerry-rodrigo/desafioTecnico/assets/59638646/54046e21-a4c3-4889-bc59-da6d66ad2e32)# desafioTecnico
+![image](https://github.com/jerry-rodrigo/desafioTecnico/assets/59638646/84d18f81-6dec-47ee-8e87-15be4165e042)
+
+
+# desafioTecnico
 Api de tipo de cambio.. El sistema debe poder realizar un tipo de cambio a un monto donde se deben utilizar el monto, moneda de origen, moneda de destino, monto con el tipo de campo y el tipo de cambio.
 
 Despues de levantar el proyecto en la consola de H2 se debe realizar El siguiente Insert
